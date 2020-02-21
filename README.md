@@ -1,2 +1,2 @@
-# -lab1--TagayShyngys-github.com-some_repo
+# -lab2--TagayShyngys-github.com-some_repo
  IOS
